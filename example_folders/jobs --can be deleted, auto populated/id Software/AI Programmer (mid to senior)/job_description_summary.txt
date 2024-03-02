@@ -1,0 +1,17 @@
+Company Name: id Software
+
+Job Location: Dallas, TX
+
+Job Title: AI Programmer (mid to senior)
+
+Responsibilities: - Responsible for any aspect of AI gameplay programming from invention and prototyping to full implementation. - Write clear, maintainable, portable C++ code. - Work with the Lead AI Programmer to design and architect major gameplay systems. - Work well with other engineers, artists, and designers specifically in the areas of developer experience and iteration time. - Help mentor and guide less experienced programmers on AI systems. - Accurately estimate schedules and deliver high-quality work products to that schedule.
+
+Skills: - 5+ years game industry programming experience. - Strong C++ design and coding experience. - Experience writing code that balances performance and maintainability. - Strong 3D math skills. - Strong interpersonal skills and problem solving ability. - Comfortable working in cross-discipline teams. - Excellent organization and time management skills. - Excellent oral and written communication skills. - Ability to write clear, maintainable, portable code that adheres to a well-documented coding standard. - Must be a self-motivated and energetic team player with a very strong work ethic and cooperative attitude. - Preferred Skills include significant contributions to at least 1 AAA shipped game, experience with developing first-person shooters, experience with any version of idTech, experience with C++11, experience with animation or gameplay programming, and experience with game editor and commercial (Max, PhotoShop, Modo, etc.) plugins/modification.
+
+Company Industry: Gaming
+
+Role Seniority: Mid to Senior
+
+Role Discipline: Programming/AI Development
+
+Salary Range: $75,000 - $160,000 per year for AI Programmer, $100,000 - $215,000 per year for Senior AI Programmer

@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the AI Programmer position at id Software in Dallas, TX, as advertised. With a robust background in software engineering and a passion for game development, I am excited about the opportunity to contribute to your team. My experience as a Senior Software Engineer, coupled with a strong foundation in C++ and C#, positions me as a strong candidate for this role.
+
+My interest in this position stems from my desire to leverage my skills in a creative and innovative environment. The gaming industry, especially a prestigious company like id Software, offers a unique platform to push the boundaries of AI and gameplay programming. With over 10 years of experience in software development, including leading the development of a scalable cloud-based application that improved performance by 40% and reduced costs by 30%, I am well-versed in creating efficient, maintainable, and high-quality code. My experience with Docker, Kubernetes, and Jenkins aligns with the requirements for writing clear, maintainable, and portable code. Additionally, my proficiency in Agile methodologies and cloud services will be beneficial in developing cutting-edge AI systems for games.
+
+I believe I am the best candidate for this job because of my demonstrated ability to lead projects and teams to success. My role in implementing CI/CD pipelines, which significantly reduced the development to production time, showcases my competency in enhancing development processes, a crucial skill for the fast-paced game development environment. My leadership experience in managing a team of software engineers, fostering collaboration, and mentoring junior members aligns with the responsibilities of guiding less experienced programmers on AI systems. Furthermore, my strong 3D math skills and problem-solving ability are assets I look forward to bringing to the AI Programmer role.
+
+In conclusion, I am eager to bring my expertise in software development, team leadership, and my passion for game development to the AI Programmer position at id Software. I am excited about the opportunity to contribute to developing innovative AI gameplay systems and to be a part of a team that is pushing the boundaries of gaming technology. Thank you for considering my application. I look forward to the possibility of discussing my application further and how I can contribute to your team.
+
+Sincerely,
+John Doe

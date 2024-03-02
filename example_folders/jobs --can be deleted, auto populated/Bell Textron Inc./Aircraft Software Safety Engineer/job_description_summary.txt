@@ -1,0 +1,31 @@
+Company Name: Bell Textron Inc.
+
+Job Location: Fort Worth, TX
+
+Job Title: Aircraft Software Safety Engineer
+
+Responsibilities: 
+- Administer Software System Safety activities on engineering design teams.
+- Interface with customers and teammates on software safety issues.
+- Monitor, investigate, and resolve issues relative to Software System Safety Engineering.
+- Perform Model Based Safety Analysis (MBSA) in coordination with Model Based Systems Engineering (MBSE) efforts.
+- Represent the company in military/industry at Software System Safety Working Groups and Aircraft Software Working Groups.
+- Provide guidance to engineering teams and suppliers on Software System Safety Engineering.
+- Review documents related to Software System Safety Engineering in accordance with AMCOM Regulation 385-17.
+- Influence air vehicle design to improve system and software safety features.
+
+Skills: 
+- Minimum of 2 years' software safety experience required.
+- Experience with military System Safety Programs (MIL-STD-882) or civil System Safety Programs (SAE ARP4761).
+- Experience or strong familiarity with military software system safety guidance (Joint Services Software System Safety Engineering Handbook, AMCOM Regulation 385-17).
+- Experience with software development (RTCA DO-178) or complex/programmable hardware development (RTCA DO-254).
+- Ability to prioritize work, strong analytical and problem-solving skills, and a team player mindset.
+- Excellent communication skills, ability to build and maintain effective relationships with customers, internal and external suppliers.
+
+Company Industry: Aviation/Aerospace
+
+Role Seniority: Multiple levels considered, from individual contributor to more experienced positions
+
+Role Discipline: Engineering - Specifically Software System Safety
+
+Salary Range: Not specified, but competitive salary mentioned along with comprehensive benefits including health insurance, personal time off, vacation time, paid holidays, parental leave, tuition reimbursement, and access to employee resource groups.

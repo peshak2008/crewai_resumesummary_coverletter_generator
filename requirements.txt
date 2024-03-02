@@ -1,0 +1,7 @@
+playwright
+beautifulsoup4
+python-docx
+python-dotenv
+crewai
+langchain-openai
+notion-client
