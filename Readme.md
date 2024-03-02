@@ -1,10 +1,12 @@
 # Custom Resume and Cover Letter Generator
 
-This library harnesses AI and the CrewAI library, developed by @joaomdmoura (https://github.com/joaomdmoura/crewAI/commits?author=joaomdmoura), to generate custom resume summary and cover letters. It utilizes candidate-provided resumes and job descriptions scraped from Indeed or other job listing platforms. The goal is to assist job seekers in customizing their applications for specific job openings, thereby increasing their chances of getting selected by job application systems and securing an interview. Make sure to review generated documents and confirm it presents your skills and background the way you expect.
+This library harnesses the power of AI and the CrewAI library by [@joaomdmoura](https://github.com/joaomdmoura/crewAI), to generate custom resume summaries and cover letters. It utilizes candidate-provided resumes and job descriptions provided manually, scraped from Indeed or possibly other job listing platforms. The goal is to assist job seekers in customizing their applications for specific job openings, thereby increasing their chances of getting selected by job application systems and securing an interview. Make sure to review generated documents and confirm it presents your skills and background the way you expect.
 
 ## Key Deliverables
 
-This package provides a comprehensive solution for job seekers to enhance their job application process. Here are the key deliverables:
+This package provides a comprehensive solution for job seekers to enhance their job application process. Here are the key deliverables (See Example "Jobs" folder):
+
+- **Job Description Scraping**: Includes functionality to automatically scrape job descriptions from specified URLs, facilitating the customization process.
 
 - **Custom Resume Summary Generation**: Generates tailored resume summary, candidate title, and location by integrating the candidate's skills and experiences with specific job descriptions.
 
@@ -13,8 +15,6 @@ This package provides a comprehensive solution for job seekers to enhance their 
 - **PDF Conversion**: Offers the capability to save generated resumes and cover letters as PDFs, ensuring consistent formatting across different platforms and devices.
 
 - **Notion Integration**: Supports updating a Notion database with job application details, making it easier to track and organize job search efforts.
-
-- **Job Description Scraping**: Includes functionality to automatically scrape job descriptions from specified URLs, facilitating the customization process.
 
 - **AI-Enhanced Content**: Utilizes AI to analyze job descriptions and candidate resumes, ensuring that generated documents are highly relevant and tailored.
 
@@ -35,6 +35,8 @@ These features are designed to streamline the job application process, making it
 2. Install the required dependencies by running `pip install -r requirements.txt` in your terminal.
 3. Obtain an OpenAI API key and set it in your environment variables as `OPENAI_API_KEY`.
 4. For notion integration, see the relevant section below.
+5. Update Config.py
+6. Create default_resume folder in main directory, which has two files your resume and a resume template. See example folder
 
 ### Configuration
 
@@ -42,7 +44,7 @@ Before using the library, you need to set up the following:
 
 - **Resume and Template**: Place your `resume.docx` in the `default_resume` folder. Also, provide a template resume in the same folder, which serves as a placeholder for the title, summary, and title sections. See the provided example in the default_resume folder. The files names must match the values in the config.py file
 
-- **Configurations**: In the `config.py` file, update the following settings:
+- **Configurations (Config.py)**: In the `config.py` file, update the following settings:
   - `indeed_urls` or any other job listing URLs you wish to scrape.
   - `selector`: CSS selector for scraping specific parts of the job listing page. If no selector is provided, the entire body will be scraped.
   - `candidate_name`, `resume_name`, and `resume_template_name`: Update these fields with your information and file names.
@@ -61,7 +63,7 @@ Before using the library, you need to set up the following:
 
 ## Saving Resumes and Cover Letters as PDFs
 
-The custom resume and cover letter generator offers the capability to save generated documents as PDFs. This feature is particularly beneficial for job application systems, as PDFs are widely accepted and maintain consistent formatting across different platforms and devices. However, setting up this feature requires additional steps and ensuring that all necessary libraries are installed.
+The custom resume and cover letter generator offers the capability to save generated documents as PDFs. This feature is particularly beneficial for job application systems, as PDFs are widely accepted and maintain consistent formatting across different platforms and devices. However, setting up this feature requires additional steps and ensuring that all necessary libraries are installed. If you run into issues, set to false, and this will not create PDF files.
 
 ## Customizable Resume Fields
 
